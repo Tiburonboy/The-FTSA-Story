@@ -1,10 +1,7 @@
 # The FTSA Story
-### how I spent 15 years of my life
+## how I spent 15 years of my life
 By John Black  
 
-
-# The FTSA Story
-By John Black  
 
 This story is being written using google docs with markdown formatting.   So right now only a few notes and folders have been created in github.  I’m thinking that github will be the final resting place for this saga.
 
