@@ -18,10 +18,10 @@ Normal parts of a book:
 - Preface
 - Prologue
 - Part 1
- - Chapter 1 chapter title
+     - Chapter 1 chapter title
  - Chapter 2 chapter title
 - Part 2
- - Chapter 3 chapter title
+  - Chapter 3 chapter title
  - Chapter 4 chapter title
 - Epilogue
 - Acknowledgments
