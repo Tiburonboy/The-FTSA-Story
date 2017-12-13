@@ -1,4 +1,4 @@
-# The FTSA Story
+== The FTSA Story ==
 ## how I spent 15 years of my life
 By John Black  
 
