@@ -1,7 +1,7 @@
 The FTSA Story
 ====
 how not to run a project and some lessons learned
--------
+----
 By John Black  
 
 **Introduction**  
@@ -11,6 +11,8 @@ By John Black
 Table of contents
 
 This story is being written using google docs with markdown formatting.   So right now only a few notes and folders have been created in github.  I’m thinking that github will be the final resting place for this saga.
+
+<center>Centered text</center>
 
 Normal parts of a book:  
 - Cover
