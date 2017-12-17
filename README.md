@@ -13,6 +13,7 @@ Table of contents
 This story is being written using google docs with markdown formatting.   So right now only a few notes and folders have been created in github.  I’m thinking that github will be the final resting place for this saga.
 
 <center>Centered text</center>
+<p align="center">centered text</p>
 
 Normal parts of a book:  
 - Cover
