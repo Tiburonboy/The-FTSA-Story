@@ -12,8 +12,8 @@ I’ve been thinking about writing this story for several years.  When the contr
 <p align="center">***</p>
 
 Table of Contents  
-Introduction  
-Prologue  
+[Introduction](https://github.com/Tiburonboy/The-FTSA-Story/blob/master/manuscript/Introduction.md)  
+[Prologue](https://github.com/Tiburonboy/The-FTSA-Story/blob/master/manuscript/Prologue.md)   
 Chapter 1  
 Chapter 2  
 .  
