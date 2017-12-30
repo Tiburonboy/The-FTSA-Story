@@ -10,22 +10,22 @@ I’ve been thinking about writing this story for several years.  When the contr
 
 <p align="center">***</p>
 
-Table of Contents
-Introduction
-Prologue
-Chapter 1
-Chapter 2
-.
-.
-.
-chapter 10
-Epilogue
-Acknowledgments
-Glossary
-List of Acronyms
-Bibliography
-Appendices
-Appendix A
+Table of Contents  
+Introduction  
+Prologue  
+Chapter 1  
+Chapter 2  
+.  
+.  
+.  
+chapter 10  
+Epilogue  
+Acknowledgments  
+Glossary  
+List of Acronyms  
+Bibliography  
+Appendices  
+Appendix A  
 
 **License:**  
 This work (includes computer code, documentation, schematics etc.) is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.](http://creativecommons.org/licenses/by-nc-nd/4.0/)
