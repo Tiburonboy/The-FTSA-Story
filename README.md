@@ -9,6 +9,14 @@ By John Black
 **Prologue**  
 
 Table of contents
+Chapter 1
+Chapter 2
+.
+.
+.
+chapter 10
+epologue
+
 
 This story is being written using google docs with markdown formatting.   So right now only a few notes and folders have been created in github.  I’m thinking that github will be the final resting place for this saga.
 
