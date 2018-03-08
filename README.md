@@ -1,8 +1,8 @@
 the FTSA story
-====
+====  
 how not to run a project and some lessons learned  
 with and some notes about weapons testing on DoD T&E ranges 
-----
+----  
 By Tony Cirineo and others
 Last updated: 24 Feb 2018  
 
