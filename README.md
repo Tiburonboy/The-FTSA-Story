@@ -3,7 +3,7 @@ the FTSA story
 how not to run a project and some lessons learned  
 with and some notes about weapons testing on DoD T&E ranges 
 ----  
-By Tony Cirineo and others
+By Tony Cirineo and others  
 Last updated: 24 Feb 2018  
 
 This story is about a project that I was involved with, that seemed to run on forever.  I was the systems engineer for a telemetry design project for the HARM missile, which needed a safe and arm device for the flight termination system.  As the systems engineer I was assigned with doing a lot of schedules and budgets for the project as well as writing procurement specifications.  Contract monitoring was a major part of my duties.  
