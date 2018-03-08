@@ -12,7 +12,7 @@ One of the contracts I had to monitor was for the flight termination safe and ar
 
 I’ve been thinking about writing this story for several years.  When the contract with Kaman Aerospace ended, I was going to write a lessons learned paper.  So for a while now, I’ve been collecting background information with the thought of one day writing the history of the project.  This story is being written using Google docs and then as the various parts of the story mature, those segments will be posed on github.  Github will be the final resting place for this saga.  
 
-The work flow for this effort will be to compose and write the text of the documents using Google Docs and format the document using Markdown as the document format. Github can be used to write open, collaborative projects. The document essentially is a plain text document with formatting embedded.  As the document matures, the plan text will be copied and pasted into a github text files with the extension md.  Mark Down is described (here)[https://guides.github.com/features/mastering-markdown/#what].  Github will automatically display the formatted document.
+The work flow for this effort will be to compose and write the text of the documents using Google Docs and format the document using Markdown as the document format. Github can be used to write open, collaborative projects. The document essentially is a plain text document with formatting embedded.  As the document matures, the plan text will be copied and pasted into a github text files with the extension md.  Mark Down is described [here](https://guides.github.com/features/mastering-markdown/#what).  Github will automatically display the formatted document.
 
 As described below this work is covered under a creative commons license.  
 
