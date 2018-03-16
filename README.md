@@ -34,8 +34,8 @@ Acknowledgments
 Glossary  
 List of Acronyms  
 Bibliography  
-Appendices  (more technical parts of the document)
-Appendix A, FTSA theory of operation
+Appendices  (more technical parts of the document)  
+Appendix A, FTSA theory of operation  
 
 **License:**  
 This work (includes computer code, documentation, schematics etc.) is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.](http://creativecommons.org/licenses/by-nc-nd/4.0/)
