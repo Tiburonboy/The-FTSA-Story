@@ -1,0 +1,161 @@
+Latex code:
+\documentclass[12pt,letterpaper]{report}
+%\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{natbib}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=blue,
+}
+\usepackage{lettrine}
+
+\setlength{\parindent}{2em}
+%\setlength{\parskip}{1em}
+%\usepackage{tgbonum}
+\fontfamily{ptm}\selectfont
+
+\usepackage{listings}
+\usepackage{minted}
+
+\usepackage[toc,page]{appendix}
+
+\pagestyle{plain}
+
+% Book's title and subtitle
+\title{\Huge \textbf{the FTSA story} \centerline{how not to run a project and some lessons learned}}
+\author{\huge John Q. Black}
+\date{\huge December 2017}
+
+\begin{document}
+
+\maketitle
+
+\null\vfill
+\noindent
+This work (includes computer code, documentation, schematics etc.) is licensed under a Creative Commons Attribution-Non Commercial-No Derivatives 4.0 International License.\newline 
+\url{http://creativecommons.org/licenses/by-nc-nd/4.0/}
+
+\includegraphics{by-nc-nd.png}
+\newpage
+\vspace*{\fill}
+\begingroup
+\centering
+The story and information contained herein is presented as a work of fiction.
+\endgroup
+\vspace*{\fill}
+
+\newpage
+\tableofcontents{}
+\newpage
+\addcontentsline{toc}{chapter}{Introduction}
+
+\section*{Introduction}
+\lettrine[lines=1,lraise=1]{I}{n} an essay, article, or book, an introduction (also known as a prolegomenon) is a beginning section which states the purpose and goals of the following writing. This is generally followed by the body and conclusion.  The introduction typically describes the scope of the document and gives the brief explanation or summary of the document. It may also explain certain elements that are important to the essay if explanations are not part of the main text. The readers can have an idea about the following text before they actually start reading it. ln technical writing, the introduction typically includes one or more standard subsections: abstract or summary, preface, acknowledgments, and foreword. Alternatively, the section labeled introduction itself may be a brief section found side-by-side with abstract, foreword, etc. (rather than containing them). In this case the set of sections that come before the body of the book are known as the front matter. When the book is divided into numbered chapters, by convention the introduction and any other front-matter sections are unnumbered and precede chapter 1.
+
+There is a theory which states that if ever anyone discovers exactly what the universe is for and why it is here, it will instantly disappear and be replaced by something even more bizarre and inexplicable.
+
+% three asterisk paragraph scene break
+\vspace{\baselineskip}
+\centerline{***}
+\vspace{\baselineskip}
+
+A scene transition takes characters and readers to a new location, a new time, or a new point of view. Transitions can also be used to show a character’s change in heart or frame of mind.
+
+Transitions are important in fiction because the writer can’t possibly portray or account for every moment in a character’s day, week, or life. A story may stretch over years—readers don’t need to know what happened every minute of those years.
+
+So, we use scene transitions to skip periods of time or to change to a new location in the story, glossing over events that happen between the new and old times or locations.
+
+For a visual aid, add ***, centered on a line, to indicate a scene transition in a manuscript. (Such symbols are often changed to extra line spaces in printed books.)
+
+\vspace{\baselineskip}
+\centerline{***}
+\vspace{\baselineskip}
+
+There is another theory which states that this has already happened.
+
+In this case the set of sections that come before the body of the book are known as the front matter. When the book is divided into numbered chapters, by convention the introduction and any other front-matter sections are unnumbered and precede chapter 1.
+
+There is a theory which states that if ever anyone discovers exactly what the universe is for and why it is here, it will instantly disappear and be replaced by something even more bizarre and inexplicable.
+
+There is another theory which states that this has already happened.
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=2.7]{universe.jpg}
+\caption{The Universe}
+\label{fig:univerise}
+\end{figure}
+
+\newpage
+\addcontentsline{toc}{chapter}{Prologue}
+\section*{Prologue}
+\lettrine[lines=1,lraise=1]{A}{}prologue is used to give readers extra information that advances the plot. It is included in the front matter and for a good reason! Authors use them for various purposes, including: Giving background information about the story.  A prologue or prolog (Greek πρόλογος prólogos, from pro, "before" and lógos, "word") is an opening to a story that establishes the context and gives background details, often some earlier story that ties into the main one, and other miscellaneous information. The Ancient Greek prólogos included the modern meaning of prologue, but was of wider significance, more like the meaning of preface. The importance, therefore, of the prologue in Greek drama was very great; it sometimes almost took the place of a romance, to which, or to an episode in which, the play itself succeeded.
+
+\input{chapter1.tex}
+
+\chapter{the name of chapter two}
+
+\chapter{the name of chapter 3}
+
+\section[Chapter]{a new section}
+
+\section[Chapter]{an other new section}
+
+\chapter{the name of chapter 4}
+
+\chapter{the name of chapter 5}
+
+\newpage
+\section*{Epilogue}
+``I always thought something was fundamentally wrong with the universe'' \citep{adams1995hitchhiker}
+
+\vspace{\baselineskip}
+\lettrine[lines=1,lraise=1]{A}{n} epilogue or epilog (from Greek ἐπίλογος epílogos, "conclusion" from ἐπί- "in addition" and λέγειν légein, "to say") is a piece of writing at the end of a work of literature, usually used to bring closure to the work.[1] It is presented from the perspective of within the story. When the author steps in and speaks indirectly to the reader, that is more properly considered an afterword. The opposite is a prologue—a piece of writing at the beginning of a work of literature or drama, usually used to open the story and capture interest.[2] Some genres, for example television programs and video games, call the epilog an "outro" patterned on the use of "intro" for "introduction".  An epilogue is the final chapter at the end of a story that often serves to reveal the fates of the characters. Some epilogues may feature scenes only tangentially related to the subject of the story. They can be used to hint at a sequel or wrap up all the loose ends. They can occur at a significant period of time after the main plot has ended. In some cases, the epilogue is used to allow the main character a chance to "speak freely".  An epilogue can continue in the same narrative style and perspective as the preceding story, although the form of an epilogue can occasionally be drastically different from the overall story. It can also be used as a sequel.
+
+\newpage
+\addcontentsline{toc}{chapter}{Acknowledgments}
+\section*{Acknowledgments}
+In the creative arts and scientific literature, an acknowledgement (also spelled acknowledgment in American and Canadian English) is an expression of gratitude for assistance in creating an original work.
+
+\newpage
+\addcontentsline{toc}{chapter}{Glossary}
+\section*{Glossary}
+A glossary, also known as a vocabulary or clavis, is an alphabetical list of terms in a particular domain of knowledge with the definitions for those terms. Traditionally, a glossary appears at the end of a book and includes terms within that book that are either newly introduced, uncommon, or specialized. While glossaries are most commonly associated with non-fiction books, in some cases, fiction novels may come with a glossary for unfamiliar terms.
+
+\newpage
+\addcontentsline{toc}{chapter}{List of Acronyms}
+\section*{List of Acronyms}
+An acronym is a word or name formed as an abbreviation from the initial components in a phrase or a word, usually individual letters (as in NATO or laser) and sometimes syllables (as in Benelux).
+
+There are no universal standards of the multiple names for such abbreviations and of their orthographic styling. In English and most other languages, such abbreviations historically had limited use, but they became much more common in the 20th century. Acronyms are a type of word formation process, and they are viewed as a subtype of blending.
+
+\newpage
+\addcontentsline{toc}{chapter}{Bibliography}
+\bibliographystyle{plain}
+\bibliography{references}
+
+\newpage
+\begin{appendices}
+
+\addcontentsline{toc}{chapter}{Appendix A}
+%\section*{Appendix A}
+\input{Launch_acceleration.tex}
+
+\newpage
+\addcontentsline{toc}{chapter}{Appendix B}
+\section*{Appendix B}
+% the \\ insures the section title is centered below the phrase: Appendix B
+Fire Pulse Analysis
+
+\newpage
+\addcontentsline{toc}{chapter}{Appendix C}
+\section*{Appendix C}
+% the \\ insures the section title is centered below the phrase: Appendix B
+Theory of Operation
+
+\end{appendices}
+\end{document}
