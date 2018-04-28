@@ -21,8 +21,8 @@ As described below this work is covered under a creative commons license.
 As various parts of the story get written, links in the table of contents will be updated.  
 
 **Table of Contents**  
-[Chronology](https://github.com/Tiburonboy/The-FTSA-Story/blob/master/manuscript/Chronology.md)  
 [Introduction](https://github.com/Tiburonboy/The-FTSA-Story/blob/master/manuscript/Introduction.md)  
+[Chronology](https://github.com/Tiburonboy/The-FTSA-Story/blob/master/manuscript/Chronology.md)  
 [Prologue](https://github.com/Tiburonboy/The-FTSA-Story/blob/master/manuscript/Prologue.md)   
 Chapter 1  
 Chapter 2  
